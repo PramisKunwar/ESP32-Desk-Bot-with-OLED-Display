@@ -7,8 +7,8 @@ The bot can show text, time, sensor values, or notifications, and is expandable 
 
 ## Project Resources
 - **Circuit Simulation (Cirkit Designer):** [View Circuit](https://app.cirkitdesigner.com/project/99c6ab0c-07e3-4742-8ba1-199b529ae619)
-- **Onshape CAD Model:** *(Insert your Onshape CAD link here)*
-- **Images & Screenshots:** 
+- **Images & Screenshots:**
+- ![DESK BOT](desk-bot.png)
 
 ---
 
