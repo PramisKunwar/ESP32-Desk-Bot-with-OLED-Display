@@ -72,14 +72,16 @@ The bot can show text, time, sensor values, or notifications, and is expandable 
 
 ---
 
-##  Project Journal
-This project involved plenty of trial and error:
-- Wrong pin assignments wasted hours  
-- OLED stayed blank until I ran an I2C scanner  
-- Overlapping text fixed by clearing the display before updates  
-- Simulation helped visualize behavior, but debugging was the real challenge  
+## 📦 Bill of Materials (BOM)
 
-**Biggest win:** seeing “Desk Bot” appear on the OLED for the first time 🎉  
+- ESP32 Development Board – 1  
+- OLED Display (SSD1306, 128x64) – 1  
+- Breadboard – 1  
+- Jumper Wires – ~20  
+- USB Cable – 1  
+- Power Supply – 1  
+- (Optional) Sensors – As needed  
+
 
 ---
 
